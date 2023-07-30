@@ -14,3 +14,4 @@ preprocessing.R : preprocess the data before fitting into model, apply 'center' 
 microablation_variable_importance.R : compute the model performance in terms of R2 using the ablated test data 
 permutation_variable_importance.R : compute the model performance in terms of R2 using the permuted test data 
 statistical_analysis.R : compute the empirical p-value, type I error and power of the model   
+PCA.R : apply principal component analysis to the simulated data to reduce the number of variables 
